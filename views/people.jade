@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  article
+    p.note An automatically generated list of the key players in this story.
+    ul
+    each person in people.slice(0, quantity)
+      li
+        span= person[0] + ' (' + person[1] + ' mentions)'

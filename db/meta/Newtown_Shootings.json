@@ -1,0 +1,104 @@
+{
+  "latest" : [
+    "31 Dec 2012 - The body of a gunman who killed 20 children and six adults at a Connecticut elementary school has been claimed by his father, a spokesman for the family said Monday.",
+    "17 Dec 2012 - Three days after it suffered one of the worst mass shootings in US history, Newtown in Connecticut will begin the dreadful process of burying the 27 victims on Monday, starting with two of the youngest children to be killed in their classrooms at Sandy Hook elementary school. The two boys to be buried included the youngest of all the children to have died, Noah Pozner, who turned six last month.",
+    "16 Dec 2012 - In his weekly radio address on Saturday morning, President Barack Obama said that the US needed to take steps to curb the plague of gun violence after a year marked by mass shootings in Oregon, Colorado, Wisconsin and elsewhere.",
+    "16 Dec 2012 - The coroner assigned to the Sandy Hook elementary school tragedy is preparing to release the results of autopsies conducted on the gunman and his mother, as the bodies of the 20 children who were killed have begun to be turned over to parents.",
+    "16 Dec 2012 - One of the children shot dead in Friday's school shooting massacre was British, it has been reported.\n\nSix-year-old Dylan Hockley, whose family moved from Eastleigh in Hampshire to Newtown, Connecticut, nearly two years ago, was among 20 children and six adults killed by Adam Lanza. His older brother Jake was also at Sandy Hook school but was not among those killed.",
+    "15 Dec 2012 - Barack Obama is flying to the Connecticut town devastated by America's second-deadliest school shooting to mourn with relatives of the 20 children and six adults who lost their lives.",
+    "15 Dec 2012 - Thirty-one hours after their lives were ended when a 20-year-old man forced his way into their school and opened fire on some of the youngest pupils and their teachers, the names of those who died in the Connecticut school rampage were released on Saturday",
+    "15 Dec 2012 - Families have identified all 20 children and six adults killed in the Connecticut school massacre, as new details emerged on Saturday about one of the worst mass shootings in US history.\n\nPolice said the gunman, named locally as Adam Lanza, forced his way into Sandy Hook elementary school in Newtown on Friday morning. Officers said they had \"good evidence\" relating to a motive, but declined to give further details.\n\nThe bodies of the victims have been removed from the school and taken to the office of the local medical examiner. Their names were due to be released later on Saturday.",
+    "14 Dec 2012 - America was confronted with one of its worst ever mass shootings on Friday when 20 children and six adults were shot dead by a gunman who opened fire at an elementary school in Connecticut.",
+    "14 Dec 2012 - Police are on the scene at an elementary school in Newtown, Connecticut, following reports of a shooting, which has prompted the lockdown of all pupils and teachers across the district.\n\nA spokeswoman for the Newtown public school district said they were aware of \"unconfirmed reports\" of an incident at Sandy Hook elementary school, but could not say if there were any casualties."
+  ],
+  "id" : "Newtown_Shootings",
+  "title" : "Newtown Shootings",
+  "events" : [
+    "Sandy_Hook_Shootings",
+    "Obama_Speech",
+    "Memorial",
+    "NRA"
+  ],
+  "documents" : [
+    
+  ],
+  "analysis" : [
+    {
+      "title" : "Gun control",
+      "documents" : [
+        "commentisfree/2012/dec/15/newtown-shooting-tighter-gun-control-laws",
+        "commentisfree/2012/dec/14/newtown-school-shootings-gun-control",
+        "world/2012/dec/15/newtown-school-shootings-gun-control",
+        "commentisfree/2012/dec/15/connecticut-shooting-tom-mauser",
+        "commentisfree/2012/dec/16/newtown-americans-resist-obama-gun-laws",
+        "world/2012/dec/16/obama-gun-control-pressure-newtown",
+        "world/2012/dec/16/newtown-shooting-ranges-gun-control",
+        "commentisfree/2012/dec/16/americans-gun-control-newtown-editorial",
+        "world/2012/dec/16/obama-gun-control-record-failure",
+        "world/2012/dec/16/obama-gun-control-newtown-assault",
+        "commentisfree/2012/dec/17/newtown-shooting-helpless-charlie-brooker",
+        "world/2012/dec/17/new-york-mayor-michael-bloomberg-gun-control",
+        "world/2012/dec/17/gun-control-newtown-shootings-congress",
+        "world/2012/dec/17/white-house-obama-gun-control-newtown"
+      ]
+    },
+    {
+      "title" : "Obama on Gun control",
+      "documents" : [
+        "world/2012/dec/17/obama-newtown-speech-gun-control",
+        "world/us-news-blog/2012/dec/16/newtown-school-shooting-sunday-talkshows-live",
+        "world/video/2012/dec/17/barack-obama-addresses-newtown-families-video"
+      ]
+    },
+    {
+      "title" : "Mental Health",
+      "documents" : [
+        "commentisfree/2012/dec/17/newtown-shootings-education-prevent-mass-killings",
+        "commentisfree/2012/dec/15/gun-control-sandy-hook-newtown"
+      ]
+    },
+    {
+      "title" : "Media",
+      "documents" : [
+        "world/2012/dec/15/newtown-shootings",
+        "science/the-lay-scientist/2012/dec/17/newtown-mental-health-psychology",
+        "commentisfree/2012/dec/17/npr-andy-carvin-overreach-newtown"
+      ]
+    }
+  ],
+  "reaction" : [
+    "world/2012/dec/15/dawn-hochsprung-sandy-hook-elementary",
+    "world/2012/dec/15/mary-sherlach-psychologist-sandy-hook",
+    "world/2012/dec/15/sandy-hook-teacher-victoria-soto",
+    "world/video/2012/dec/15/newtown-react-school-shootings-video",
+    "world/2012/dec/16/father-newtown-victim-love-support",
+    "world/2012/dec/16/sandy-hook-victims-remembered-words",
+    "world/2012/dec/16/adam-lanza-quiet-friendless-boy",
+    "media/greenslade/2012/dec/17/newtown-shooting-newspapers",
+    "science/blog/2012/dec/17/adam-lanza-medicalisation-evil",
+    "world/2012/dec/17/newtown-survivors-routine-order-dunblane",
+    "commentisfree/2012/dec/17/us-killings-tragedies-pakistan-bug-splats",
+    "world/2012/dec/17/mental-block-gun-control-usa"
+  ],
+  "facts" : {
+    "Geo" : "41.398333,-73.293056",
+    "Location" : "Newtown, Connecticut, United States",
+    "Date" : "December 14, 2012 c. 9:35 a.m. – c. 9:49 a.m. (EST)",
+    "Deaths" : 28,
+    "Injured" : 2,
+    "Perpetrator" : "Adam Peter Lanza",
+    "Wikipedia" : "Sandy_Hook_Elementary_School_shooting"
+  },
+  "tags" : [
+    "world/newtown"
+  ],
+  "background" : [
+    "As of November 30, 2012, Sandy Hook Elementary School had 456 children enrolled in kindergarten through fourth grade. According to school authorities, the school's security protocol had recently been upgraded, requiring visitors to be individually admitted after visual and identification review by video monitor. The doors to the school were locked at 9:30 a.m. each day, after morning arrivals.",
+    "Newtown is located in Fairfield County, Connecticut, about 60 miles outside New York City. Violent crime had been rare in the town of 28,000 residents; there was only one homicide in the town in the ten years prior to the school shooting."
+  ],
+  "contentApi" : {
+    "tags" : [
+      
+    ]
+  }
+}
